@@ -2,22 +2,6 @@
   margin-bottom: 20px;
 }
 
-.bouton_pays {
-  display: inline-block;
-  margin-right: 10px;
-  margin-bottom: 10px;
-  padding: 10px 15px;
-  background-color: #0073aa;
-  color: white;
-  border: none;
-  cursor: pointer;
-  font-size: 16px;
-}
-
-.bouton_pays:hover {
-  background-color: #005177;
-}
-
 .restapi__carte {
   margin-bottom: 20px;
   padding: 20px;
