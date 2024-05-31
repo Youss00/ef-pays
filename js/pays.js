@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 data.forEach(function (article) {
                     let titre = article.title.rendered;
-                    let contenu = article.content.rendered.substr(0, 400) + "...";
+                    let contenu = article.content.rendered.substr(0, 500) + "...";
                     let image = article.featured_media ? article._embedded['wp:featuredmedia'][0].source_url : 'https://via.placeholder.com/150';
 
                     let carte = document.createElement("div");
