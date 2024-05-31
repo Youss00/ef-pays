@@ -27,9 +27,7 @@ function wtp_create_country_menu()
     <button class="bouton_categorie">Argentine</button>
     <button class="bouton_categorie">Chili</button>
     <button class="bouton_categorie">Belgique</button>
-    <button class="bouton_categorie">Maroc</button>
     <button class="bouton_categorie">Mexique</button>
-    <button class="bouton_categorie">Japon</button>
     <button class="bouton_categorie">Italie</button>
     <button class="bouton_categorie">Islande</button>
     <button class="bouton_categorie">Chine</button>
